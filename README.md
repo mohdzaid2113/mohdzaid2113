@@ -6,7 +6,7 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-I'm a passionate Computer Science student, currently diving into the ever-evolving world of technology. Dedicated to expanding my knowledge, I am constantly learning new concepts and honing my skills in coding and AI. With a love for innovation, I strive to stay ahead in this dynamic field and contribute meaningfully to the tech community.
+I'm a passionate Computer Science student, currently diving into the ever-evolving world of technology. Dedicated to expanding my knowledge, I am constantly learning new concepts and honing my skills in coding. With a love for innovation, I strive to stay ahead in this dynamic field and contribute meaningfully to the tech community.
 </p>
 
 <h3 align="left">Connect with me:</h3>
